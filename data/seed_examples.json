@@ -1,0 +1,5 @@
+[
+  {"text":"Battery life is amazing but the camera struggles in low light.", "aspect_hint":"battery", "sentiment_label":"positive"},
+  {"text":"Oh sure, the delivery was 'on time'… two days late.", "aspect_hint":"delivery", "sentiment_label":"negative"},
+  {"text":"The UI is intuitive, although settings are a bit buried.", "aspect_hint":"ui", "sentiment_label":"neutral"}
+]
